@@ -1,4 +1,4 @@
-# AI-search
+# AI-search-Agent
 
 This is a programming assignment in which we apply AI search techniques to solve some sophisticated 3D Mazes.
 
