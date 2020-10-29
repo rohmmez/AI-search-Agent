@@ -13,7 +13,7 @@ import java.util.PriorityQueue;
 import java.util.Queue;
 import java.util.Set;
 
-public class homework 
+public class AISearch 
 {
 	public static void main(String args[]) throws IOException
 	{
