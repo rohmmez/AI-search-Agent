@@ -60,4 +60,4 @@ Output: The file output.txt that our program creates in the current directory sh
 Report the steps in our solution travelling from the entrance grid location to the exit grid location as were given in the input.txt file.
 Write out one line per step with cost. Each line should contain a tuple of four integers: X, Y, Z, Cost, separated by a space character, specifying the grid location with the single step cost to visit that grid location by our agent from its last grid during its traveling from the entrance to the exit.
 
-In the end, we have some input examples in the file.
+In the end, we have some input and output examples in the file.
